@@ -1,1 +1,1 @@
-"Git_tutorial by Ashish Tiwari" 
+"Git_tutorial by Ashish Tiwari and checking the second one as well"
